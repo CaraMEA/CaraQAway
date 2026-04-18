@@ -49,7 +49,7 @@ It represents my approach to software quality — thoughtful, structured, and us
 
 ### 🎓 Tripleten Externship
 A 7-week automation collaboration with Runestone Academy.  
-📎 [View Externship Project ↗](https://canva.link/3aiptqvmics5ylh)
+📎 [View Externship Project ↗]("https://www.canva.com/design/DAGqubVQdQw/uR7leU_PbFvh1IZdmlToUA/view")
 
 ### 🪲 Bug Jam Series
 Hands-on QA exercises focused on identifying and resolving issues collaboratively.  
